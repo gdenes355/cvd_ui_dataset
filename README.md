@@ -24,7 +24,7 @@ Each row contains the following information:
 * `trit`: path to the CVD-simulated image that mimics what a color blind user with tritanopia  would see.
 
 ## Data collection methodology
-For a complete description of the data collection, please see our paper at [MDPI Computers](https://doi.org/10.3390/computers13020053)
+For a complete description of the data collection, please see our paper in [MDPI Computers](https://doi.org/10.3390/computers13020053).
 
 ## References, license
 We welcome the use of our dataset and results in any subsequent study. Please remember to cite our article as follows:
